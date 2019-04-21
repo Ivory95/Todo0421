@@ -1,5 +1,9 @@
 Todoアプリを作りました。
 ---
+GIF
+---
+![](/gif/10.gif)
+
 expoリンク
 ---
 https://expo.io/@ivory/0416
